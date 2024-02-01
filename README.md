@@ -1,5 +1,5 @@
 # Classificiation
-Image Classsification using SVM
+Image Classsification using Support Vector Machine (SVM model)
 
 # Image Segmentation
 
